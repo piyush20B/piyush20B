@@ -7,7 +7,7 @@
         🌟 Skilled full stack developer with a passion for <b>API technologies</b>. Currently diving deep into <b>web API development</b>, with a focus on:
     </p>
     
-- <b style="color:#5ce30b;">Git</b>: Proficient in version control.
+- <b style="color:green;">Git</b>: Proficient in version control.
 - <b style="color:#5ce30b;">HTML</b>, <b style="color:#5ce30b;">CSS</b>, <b style="color:#5ce30b;">Tailwind CSS</b>, <b>SCSS</b>: Expertise in front-end development.
 - <b style="color:#5ce30b;">JavaScript</b>, <b style="color:#5ce30b;">jQuery</b>: Strong skills in client-side scripting.
 - <b style="color:#5ce30b;">Node.js</b>: Proficient in building scalable server-side applications.
