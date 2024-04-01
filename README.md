@@ -1,4 +1,4 @@
-![pixelThreader_brand](./githubreadmeD.jpg)
+![pixelThreader_brand](./githubReadMe.jpg)
 
 <hr/>
 
