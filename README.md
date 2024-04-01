@@ -21,14 +21,16 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=piyush20B&theme=synthwave&border_radius=7.1&date_format=j%20M%5B%20Y%5D" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=piyush20B&theme=synthwave&border_radius=7.1&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 
 ``` Stats ```
 
-![](https://github-readme-stats.vercel.app/api?username=piyush20B&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=piyush20B&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
 
 ``` Languages ```
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush20B&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush20B&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
