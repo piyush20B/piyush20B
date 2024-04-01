@@ -15,7 +15,7 @@
 
 ## Github Stats
 <p align="center">
-``` Streak ```
+<code>Streak</code>
 </p>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=piyush20B&theme=synthwave&border_radius=7.1&date_format=j%20M%5B%20Y%5D" />
