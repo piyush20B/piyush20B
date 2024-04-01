@@ -4,7 +4,7 @@
 
 <div>
     <p  align="center">
-        🌟 Skilled full stack developer with a passion for <b>API technologies</b>. Currently diving deep into <b>web API development</b>, with a focus on:
+        🌟 Skilled full stack developer with a passion for <b>Modern web technologies</b>. Currently diving deep into <b>web API development</b>, with a focus on:
     </p>
     
 - <b style="color:green;">Git</b>: Proficient in version control.
