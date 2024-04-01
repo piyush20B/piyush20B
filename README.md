@@ -17,8 +17,11 @@
 
 ```Streak```
 
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,html,css,tailwind,scss,js,jquery,nodejs,python,django,php,wordpress,figma,github&perline=8](https://github-readme-streak-stats.herokuapp.com?user=piyush20B&theme=synthwave&border_radius=7.1&date_format=j%20M%5B%20Y%5D)" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=piyush0431&theme=synthwave&border_radius=7.1&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=piyush20B&theme=synthwave&border_radius=7.1&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 ``` Stats ```
@@ -28,4 +31,4 @@
 ``` Languages ```
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush0431&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush20B&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
