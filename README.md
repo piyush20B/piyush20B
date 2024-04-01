@@ -22,19 +22,13 @@
 
 ## 🔗 Links
 
-<style>
-  a {
-    text-decoration: none; /* Removes underline */
-  }
-</style>
-<a href="#" target="_blank">
+<a href="#" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio">
 </a>
 
-<a href="https://www.linkedin.com/in/piyushRana5080" target="_blank">
+<a href="https://www.linkedin.com/in/piyushRana5080" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
 </a>
-
 
 
 ## SKILLSET
