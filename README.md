@@ -10,7 +10,6 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 ### SKILLSET
-[![skillset](https://skillicons.dev/icons?i=git,html,css,tailwind,scss,js,jquery,nodejs,python,django,php,wordpress,figma,github&perline=8)](https://skillicons.dev)
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,html,css,tailwind,scss,js,jquery,nodejs,python,django,php,wordpress,figma,github&perline=8" />
