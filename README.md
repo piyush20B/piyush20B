@@ -1,4 +1,4 @@
-![pixelThreader_brand](./githubReadMe.jpg)
+<img src="./githubReadMe.jpg" alt="pixelThreader" style="border-redius: 20px:" />
 
 <hr/>
 
