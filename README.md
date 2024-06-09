@@ -1,4 +1,4 @@
-<img src="./githubReadMe.jpg" alt="pixelThreader" style="border-redius: 20px:" />
+<img src="./githubReadMe.jpg" alt="pixelThreader" style="border-redius: 20px;" />
 
 <hr/>
 
