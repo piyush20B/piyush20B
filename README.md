@@ -1,7 +1,6 @@
-<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-  <image href="./githubReadMe.jpg" x="0" y="0" width="400" height="400" style="border-radius: 20px;"/>
-</svg>
-
+<div style="border-radius: 20px; overflow: hidden; width: fit-content; display: inline-block;">
+  <img src="./githubReadMe.jpg" alt="pixelThreader" style="border-radius: 20px;" />
+</div>
 
 <hr/>
 
